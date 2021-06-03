@@ -1,7 +1,7 @@
 ---
 id: '2'
 price: '99.00'
-title: Integer porta
+title: ITV BOX H50
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/knowledgeable-olive.webp
 default_original_image: images/plant2-lg.jpg
