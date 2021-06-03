@@ -1,6 +1,5 @@
 ---
 id: '3'
-price: '20.00'
 title: TV BOX H50
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/terrific-olive.webp
