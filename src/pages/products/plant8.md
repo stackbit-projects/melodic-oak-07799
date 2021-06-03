@@ -1,7 +1,7 @@
 ---
 id: '8'
 price: '50.00'
-title: Fusce sed
+title: TV BOX H50
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/rainy-pineapple.webp
 default_original_image: images/plant8-lg.jpg
