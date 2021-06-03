@@ -1,7 +1,7 @@
 ---
 id: '4'
 price: '24.99'
-title: Cras molestie
+title: TV BOX H50
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/pleasant-birch.webp
 default_original_image: images/plant4-lg.jpg
