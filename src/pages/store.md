@@ -50,5 +50,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 template: store
-white_header: true
+white_header: false
 ---
