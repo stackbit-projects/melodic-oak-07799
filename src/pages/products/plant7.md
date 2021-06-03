@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: TV BOX H50
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/neat-avocado.webp
 default_original_image: images/plant7-lg.jpg
