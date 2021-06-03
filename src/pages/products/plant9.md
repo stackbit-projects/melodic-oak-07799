@@ -1,7 +1,7 @@
 ---
 id: '9'
 price: '4000'
-title: Fusce sagittis
+title: TV BOX H50
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/royal-octopus.webp
 default_original_image: images/plant9-lg.jpg
