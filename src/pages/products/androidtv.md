@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: product
+default_original_image: images/modern-avocado.webp
 ---
 ## Lorem ipsum
 
