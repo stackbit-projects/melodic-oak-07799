@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '99.00'
+price: '4000'
 title: ITV BOX H50
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/knowledgeable-olive.webp
