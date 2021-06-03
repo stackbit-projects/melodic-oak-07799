@@ -3,7 +3,7 @@ id: '3'
 price: '20.00'
 title: Curabitur eu tempor
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/terrific-olive.webp
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
