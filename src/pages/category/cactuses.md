@@ -1,5 +1,4 @@
 ---
-title: Cactuses
 order: 2
 seo:
   title: Cactuses
