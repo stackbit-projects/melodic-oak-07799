@@ -1,6 +1,5 @@
 ---
 id: '1'
-price: '4000'
 title: TV BOX H50
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
