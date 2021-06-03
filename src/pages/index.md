@@ -10,7 +10,7 @@ sections:
       # POWER YOUR TV BOX
 
     actions:
-      - title: See all items
+      - title: PRODUITS DISPONIBLES
         url: /store
         arrow: true
         style: primary
