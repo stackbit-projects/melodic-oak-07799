@@ -6,9 +6,8 @@ sections:
     section_id: hero_section
     background_image: images/lo.jpg
     background_image_opacity: 65
-    content: |+
-      # POWER YOUR TV BOX
-
+    content: |
+      # POWER YOUR TV 
     actions:
       - title: PRODUITS DISPONIBLES
         url: /store
