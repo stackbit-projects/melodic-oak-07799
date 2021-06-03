@@ -6,12 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/lo.jpg
     background_image_opacity: 65
-    content: >
-      # POWER YOUR TV BOX 
+    content: |+
+      # POWER YOUR TV BOX
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
     actions:
       - title: See all items
         url: /store
