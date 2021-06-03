@@ -1,5 +1,4 @@
 ---
-title: Summer plants
 order: 4
 seo:
   title: Summer plants
