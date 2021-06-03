@@ -17,7 +17,7 @@
         },
         {
             "title": "ANDROID TV",
-            "url": "/store",
+            "url": "/category",
             "style": "primary",
             "arrow": false,
             "type": "action"
