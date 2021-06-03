@@ -1,7 +1,6 @@
 ---
 id: lorem-ipsum
 title: ANDROID BOX TV
-description: lorem-ipsum
 price: '4000'
 order: 0
 featured: false
