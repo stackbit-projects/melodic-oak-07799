@@ -1,7 +1,6 @@
 {
     "favicon": "images/favicon.png",
     "logo_dark": "images/logo.svg",
-    "logo_light": "images/aa.webp",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/tt.jpg",
     "bg_image_primary_opacity": 60,
