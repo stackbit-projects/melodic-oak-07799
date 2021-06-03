@@ -23,6 +23,13 @@
             "type": "action"
         },
         {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
             "title": "FAQ inta",
             "url": "/faq",
             "style": "link"
